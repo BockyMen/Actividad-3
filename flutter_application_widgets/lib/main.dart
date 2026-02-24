@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import './widgets/CustomCard.dart';
-import './widgets/CardPersonal.dart';
+import 'widgets/CustomHeader.dart';
 
 void main() {
   runApp(const MainApp());
