@@ -35,7 +35,7 @@ class MainApp extends StatelessWidget {
               SizedBox(height: 50),
               Text("Usuario", style: TextStyle(fontSize: 24, ), textAlign: TextAlign.center),
               SizedBox(height: 20),
-              Cardpersonal(
+              Customheader(
                 imagen: Image(image: NetworkImage("https://cdn-icons-png.flaticon.com/512/3135/3135715.png")),
                 title: "Marcos Gomez",
                 subtitle: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",

@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class Cardpersonal extends StatelessWidget{
+class Customheader extends StatelessWidget{
   final Image imagen;
   final String title;
   final String subtitle;
   final IconData icon;
   //final VoidCallback onTap;
 
-  const Cardpersonal({
+  const Customheader({
     super.key,
     required this.imagen,
     required this.title,
